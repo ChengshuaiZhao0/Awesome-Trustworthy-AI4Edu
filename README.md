@@ -6,9 +6,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Survey](https://img.shields.io/badge/Survey-Coming_Soon-%238A91FA.svg)
-![Papers](https://img.shields.io/badge/Papers-147-%23F2806B.svg)
+[![Papers](https://img.shields.io/badge/Papers-147-%23F2806B.svg)](#taxonomy)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-%2340D9B0.svg)](https://github.com/ChengshuaiZhao0/Awesome-Trustworthy-AI4Edu/pulls)
-![Last Commit](https://img.shields.io/github/last-commit/ChengshuaiZhao0/Awesome-Trustworthy-AI4Edu?label=Last%20Commit&color=ffb982)
+[![Last Commit](https://img.shields.io/github/last-commit/ChengshuaiZhao0/Awesome-Trustworthy-AI4Edu?label=Last%20Commit&color=ffb982)](https://github.com/ChengshuaiZhao0/Awesome-Trustworthy-AI4Edu/commits/main)
 
 </div>
 
@@ -61,13 +61,31 @@ Trustworthiness requirements guide system development; evaluation and auditing v
 ## Contents
 
 - [Trustworthiness Attributes](#trustworthiness-attributes)
-  - [Correctness](#correctness) · [Reliability](#reliability) · [Robustness](#robustness) · [Fairness and Equity](#fairness-and-equity) · [Transparency](#transparency) · [Safety and Harmlessness](#safety-and-harmlessness) · [Academic Honesty](#academic-honesty) · [Privacy](#privacy) · [Accountability](#accountability)
+  - [Correctness](#correctness)
+  - [Reliability](#reliability)
+  - [Robustness](#robustness)
+  - [Fairness and Equity](#fairness-and-equity)
+  - [Transparency](#transparency)
+  - [Safety and Harmlessness](#safety-and-harmlessness)
+  - [Academic Honesty](#academic-honesty)
+  - [Privacy](#privacy)
+  - [Accountability](#accountability)
 - [Trustworthiness Methodology](#trustworthiness-methodology)
-  - [Data and Annotation](#data-and-annotation) · [Trustworthy Model Design](#trustworthy-model-design) · [Training and Inference](#training-and-inference) · [Deployment and Safeguards](#deployment-and-safeguards)
+  - [Data and Annotation](#data-and-annotation)
+  - [Trustworthy Model Design](#trustworthy-model-design)
+  - [Training and Inference](#training-and-inference)
+  - [Deployment and Safeguards](#deployment-and-safeguards)
 - [Trustworthy Educational Applications](#trustworthy-educational-applications)
-  - [Student Assessment](#student-assessment) · [Feedback Systems](#feedback-systems) · [Personalized Learning and Tutoring](#personalized-learning-and-tutoring) · [Accessible and Inclusive Education](#accessible-and-inclusive-education) · [Academic Integrity and Verification](#academic-integrity-and-verification) · [Institutional Decision Making](#institutional-decision-making)
+  - [Student Assessment](#student-assessment)
+  - [Feedback Systems](#feedback-systems)
+  - [Personalized Learning and Tutoring](#personalized-learning-and-tutoring)
+  - [Accessible and Inclusive Education](#accessible-and-inclusive-education)
+  - [Academic Integrity and Verification](#academic-integrity-and-verification)
+  - [Institutional Decision Making](#institutional-decision-making)
 - [Benchmarks and Evaluation](#benchmarks-and-evaluation)
-  - [Educational Benchmarks](#educational-benchmarks) · [Automated Evaluation](#automated-evaluation) · [Human Studies and Field Evaluation](#human-studies-and-field-evaluation)
+  - [Educational Benchmarks](#educational-benchmarks)
+  - [Automated Evaluation](#automated-evaluation)
+  - [Human Studies and Field Evaluation](#human-studies-and-field-evaluation)
 - [Citation](#citation)
 - [Contributing](#contributing)
 
