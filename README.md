@@ -8,7 +8,7 @@
 ![Survey](https://img.shields.io/badge/Survey-Coming_Soon-%238A91FA.svg)
 ![Papers](https://img.shields.io/badge/Papers-147-%23F2806B.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-%2340D9B0.svg)](https://github.com/ChengshuaiZhao0/Awesome-Trustworthy-AI4Edu/pulls)
-![Last Commit](https://img.shields.io/github/last-commit/ChengshuaiZhao0/Awesome-Trustworthy-AI4Edu?color=ffb982&cacheSeconds=3600)
+![Last Commit](https://img.shields.io/github/last-commit/ChengshuaiZhao0/Awesome-Trustworthy-AI4Edu?label=Last%20Commit&color=ffb982)
 
 </div>
 
